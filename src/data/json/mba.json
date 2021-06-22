@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "title": "My Personal Studies",
+    "subtitle": "Both in Web Development and Mobile Development",
+    "info": ""
+  },
+  "semesters": [
+    {
+      "name": "1. 2017",
+      "dates": {
+        "start": ".....",
+        "end": "All year"
+      },
+      "courses": [
+        {
+          "courseName": "HTML5 & CSS3",
+          "sections": [
+            {
+              "title": "Learned How to write HTML5 and CSS3 codes",
+              "url": "#",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Gave up trying to learn Javascript",
+          "sections": [
+            {
+              "title": "Until I found Angela Yu's course on Udemy",
+              "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "1. 2018",
+      "dates": {
+        "start": ".....",
+        "end": "All year"
+      },
+      "courses": [
+        {
+          "courseName": "JavaScript Era",
+          "sections": [
+            {
+              "title": "Mastered JavaScript and was building fun projects. Also learned NodeJS, ExpressJs and MongoDB",
+              "url": "#",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "1. 2019",
+      "dates": {
+        "start": ".....",
+        "end": "......."
+      },
+      "courses": [
+        {
+          "courseName": "WordPress Era",
+          "sections": [
+            {
+              "title": "Mastered WordPress and started building real websites for churches and some businesses for free",
+              "url": "#",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1. 2020",
+      "dates": {
+        "start": ".....",
+        "end": "........"
+      },
+      "courses": [
+        {
+          "courseName": "Packs Era",
+          "sections": [
+            {
+              "title": "React Native, Java, Python and ReactJS era",
+              "url": "#",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "1. 2018",
+      "dates": {
+        "start": ".....",
+        "end": "________"
+      },
+      "courses": [
+        {
+          "courseName": "Powering Era",
+          "sections": [
+            {
+              "title": "Git, Linux, Server Setup (Linux environment),",
+              "url": "#",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extras": []
+}

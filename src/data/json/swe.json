@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "Bachelor's Degree in Computer Science",
+    "subtitle": "Specialization in Computer Science",
+    "info": "Long story short, I've been pursuing a Bachelor's Degree in Computer Science for a while now, even though I have not completed yet, I habour useful skills. Here is an outline of how far I have dived :)"
+  },
+  "semesters": [
+    {
+      "name": "September 2020 ",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "CS 1101 Programming Fundamentals",
+          "sections": [
+            {
+              "title": "Introduction to Python Programming",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37612",
+              "progress": {
+                "completed": 100,
+                "total": 100
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "UNIV 1001 Online Education Strategies",
+          "sections": [
+            {
+              "title": "Online Education Strategies",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37635",
+              "progress": {
+                "completed": 100,
+                "total": 100
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " November 2020",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "CS 1102 Programming 1",
+          "sections": [
+            {
+              "title": "Introduction to Programming In Java",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37613",
+              "progress": {
+                "completed": 89,
+                "total": 100
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 1201 College Algebra",
+          "sections": [
+            {
+              "title": "Introduction to College Algebra",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37628",
+              "progress": {
+                "completed": 88,
+                "total": 100
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "January 2021 ",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "HIST 1421 Greek and Roman Civilization",
+          "sections": [
+            {
+              "title": "Greek and Roman Civilization",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38899",
+              "progress": {
+                "completed": 98,
+                "total": 100
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "April 2021 ",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "ENGL 1102 English Composition 2",
+          "sections": [
+            {
+              "title": "English Composition 2",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37626",
+              "progress": {
+                "completed": 81,
+                "total": 100
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PSYC 1504 Introduction to Psychology",
+          "sections": [
+            {
+              "title": "Introduction to Psychology",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37633",
+              "progress": {
+                "completed": 71.1,
+                "total": 100
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 1103 Programming 2",
+          "sections": [
+            {
+              "title": "Intermediate Java",
+              "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38895",
+              "progress": {
+                "completed": 81.1,
+                "total": 100
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "name": "Elective Studies",
+      "sections": [
+        {
+          "title": "Introduction to Psychology",
+          "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=37633",
+          "progress": {
+            "completed": 7,
+            "total": 11
+          }
+        },
+        {
+          "title": "Greek and Roman Civilization",
+          "url": "https://my.uopeople.edu/mod/book/view.php?id=45606&chapterid=38899",
+          "progress": {
+            "completed": 3,
+            "total": 3
+          }
+        }
+      ]
+    }
+  ]
+}
