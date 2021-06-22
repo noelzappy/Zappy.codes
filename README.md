@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/noelzappy/noelzappy.github.io.svg?branch=master)](https://travis-ci.com/noelzappy/noelzappy.github.io)
-
 ## What's this?
 
 [VS Code](https://code.visualstudio.com/) / [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) inspired developer portfolio app. :blush:
@@ -17,7 +15,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Clone the repo:
 
   ```bash
-  git clone https://github.com/noelzappy/noelzappy.git portfolio-app
+  git clone https://github.com/noelzappy/zappy.codes.git portfolio-app
   cd portfolio-app
   ```
 
