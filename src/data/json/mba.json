@@ -32,7 +32,7 @@
               "title": "Until I found Angela Yu's course on Udemy",
               "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
@@ -110,7 +110,7 @@
     },
 
     {
-      "name": "1. 2018",
+      "name": "1. 2021",
       "dates": {
         "start": ".....",
         "end": "________"
@@ -123,8 +123,8 @@
               "title": "Git, Linux, Server Setup (Linux environment),",
               "url": "#",
               "progress": {
-                "completed": 1,
-                "total": 1
+                "completed": 100,
+                "total": 100
               }
             }
           ]

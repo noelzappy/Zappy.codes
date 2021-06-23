@@ -11,6 +11,7 @@ import mbaData from './json/mba.json';
 import pkg from '../../package.json';
 
 import { calculateDiplomaProgress } from '../utils';
+import { faBluetooth } from '@fortawesome/free-brands-svg-icons';
 
 export const pages: PageLink[] = [
   {
@@ -46,7 +47,7 @@ export const pages: PageLink[] = [
 
 export const tabs: TabLink[] = [
   {
-    name: 'about.html',
+    name: 'about-me.html',
     url: '/about',
     icon: ['fab', 'html5'],
     color: pink,
@@ -72,5 +73,12 @@ export const tabs: TabLink[] = [
     icon: 'sliders-h',
     color: green,
     mdFileName: 'projects',
+  },
+  {
+    name: 'contact-me.css',
+    url: '/contact',
+    icon: ['fab', 'css3'],
+    color: midBlue,
+    mdFileName: 'contact',
   },
 ];
